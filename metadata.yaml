@@ -1,0 +1,32 @@
+_repo: A-Popular-History-of-Astronomy-During-the-Nineteenth-CenturyFourth-Edition_28247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clerke, Agnes M. (Agnes Mary)
+    alias: Clerke, Agnes Mary
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '33220'
+    url: http://www.gutenberg.org/2009/agents/33220
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Mary_Clerke
+description: Pt. 1. Progress of astronomy during the first half of the nineteenth
+  century -- Pt. 2. Recent progress of astronomy.
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2009-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- History -- 19th century'
+- !lcc 'QB'
+title: 'A Popular History of Astronomy During the Nineteenth Century
+
+  Fourth Edition'
+url: http://www.gutenberg.org/ebooks/28247
